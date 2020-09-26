@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Hackathon101</string>
+    <string name="devfest_meaning">DevFests are community-led developer events hosted by Google Developer Groups around the globe.</string>
+    <string name="agenda">Agenda</string>
+    <string name="speakers">Speakers</string>
+    <string name="team">Team</string>
+    <string name="sponsors">Sponsors</string>
+    <string name="faq">FAQ</string>
+    <string name="locate">Locate</string>
+</resources>
